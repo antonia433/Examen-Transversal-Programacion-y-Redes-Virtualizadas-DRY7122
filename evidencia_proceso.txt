@@ -1,5 +1,0 @@
-devasc      2985  0.0  0.6  38392 27396 pts/0    T    21:06   0:00 python3 auth_api.py
-devasc      2992  8.1  0.8 412696 33600 pts/0    Tl   21:06   5:20 /usr/bin/python3 /home/devasc/devnet-src/Examen-Transversal-Programacion-y-Redes-Virtualizadas-DRY7122/auth_api.py
-devasc      4178  0.3  0.6  38396 28008 pts/0    T    22:09   0:00 python3 auth_api.py
-devasc      4180 12.4  0.8 116744 32780 pts/0    Tl   22:09   0:23 /usr/bin/python3 /home/devasc/devnet-src/Examen-Transversal-Programacion-y-Redes-Virtualizadas-DRY7122/auth_api.py
-devasc      4191  0.0  0.0   9036  2628 pts/0    S+   22:12   0:00 grep --color=auto auth_api.py
